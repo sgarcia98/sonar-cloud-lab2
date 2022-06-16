@@ -13,7 +13,7 @@ trigger:
 - master
  
 pool:
-  vmImage: ubuntu-latest
+  name: DESKTOP-21LLPK8
  
 steps:
 
