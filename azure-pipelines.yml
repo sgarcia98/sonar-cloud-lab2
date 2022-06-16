@@ -13,7 +13,7 @@ trigger:
 - master
  
 pool:
-  name: DESKTOP-21LLPK8
+  Agent.Name: DESKTOP-21LLPK8
  
 steps:
 
