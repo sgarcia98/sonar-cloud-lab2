@@ -12,7 +12,8 @@
 trigger:
 - master
  
-pool:MyPool
+pool:
+  name: local
  
 steps:
 
