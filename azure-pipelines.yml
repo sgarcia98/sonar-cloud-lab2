@@ -12,8 +12,7 @@
 trigger:
 - master
  
-pool:
- vmImage: 'ubuntu-20.04'
+pool:MyPool
  
 steps:
 
